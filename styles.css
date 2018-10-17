@@ -1,11 +1,21 @@
+.main {
+  height: 100%;
+  width: 75%;
+  margin: 0 auto;
+  border: 1px solid green;
+  display: flex;
+
+}
+
 .aside {
   width: 25%;
   display: inline;
-  
+  border: 2px solid red;
 
 }
 
 .main-content {
   width: 70%;
   display: inline;
+  border: 2px solid blue;
 }
