@@ -23,7 +23,8 @@ body {
 .sl-logo {
   border: 4px solid #AF464D;
   color: #AF464D;
-  padding: 2rem;
+  height: 3em;
+  width: 100%;
   margin: 2rem;
   font-size: 4rem;
   text-align: center;
