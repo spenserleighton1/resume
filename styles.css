@@ -1,5 +1,6 @@
 body {
   background-color: #EBECED;
+  color: #323232;
   font-family: 'Roboto', sans-serif;
 }
 
@@ -16,7 +17,6 @@ body {
   background-color: #FAD8D3;
   width: 35%;
   text-align: center;
-  /*display: flex;*/
 }
 
 .name,
@@ -25,13 +25,16 @@ body {
   margin-bottom: 0;
 }
 
+.title {
+  font-size: 1.25vw;
+}
+
 .name {
-  font-size: 2rem;
+  font-size: 3vw;
 }
 
 .main-content {
-  padding: 2rem;
-  color: darkgray;
+  padding: 3vw;
   background-color: #FFFFFF;
   width: 65%;
 }
@@ -44,7 +47,7 @@ body {
   height: 15vw;
   max-width: 171px;
   max-height: 171px;
-  margin: 3rem auto;
+  margin: 3vw auto;
   font-size: 7vw;
   display: flex;
   justify-content: center;
@@ -52,8 +55,13 @@ body {
 }
 
 .contact-info {
+  font-size: 1.7vw;
   text-align: left;
   margin: 0 1rem;
+}
+
+.skills {
+  font-size: 1.7vw;
 }
 
 a {
@@ -63,14 +71,21 @@ a {
 
 p {
   margin: .25rem 0;
+  font-size: 1.5vw;
 }
 
 .aside-header {
-  margin-bottom: 0.5rem;
+  font-size: 2.75vw;
+  /*margin-bottom: 0.5rem;*/
   text-align: center;
   color: #AF464D;
 }
 
+.about-me {
+  line-height: 1.6;
+}
+
 .main-header {
+  font-size: 2vw;
   color: #AF464D; 
 }
