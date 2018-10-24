@@ -81,11 +81,11 @@ p {
 }
 
 ul {
-  margin: 0.25rem;
+  margin: 0.25vw;
 }
 
 li {
-  font-size: .5rem;
+  font-size: 1.5vw;
 }
 .project-description,
 .about-me {
@@ -93,20 +93,20 @@ li {
 }
 
 .about-me {
-  
+  margin-bottom: 2vw;
 }
 
 .project-name {
-  font-size: 0.5rem;
-  margin: 0.25rem 0;
+  font-size: 1.5vw;
+  margin: 1.25vw 0;
 }
 
 .project-link {
-  font-size: 0.5rem;
+  font-size: 1.5vw;
 }
 
 .main-header {
-  margin: .25rem 0;
+  margin: .25vw 0;
   font-size: 2vw;
   color: #AF464D; 
 }
