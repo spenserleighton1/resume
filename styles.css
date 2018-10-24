@@ -80,8 +80,29 @@ p {
   color: #AF464D;
 }
 
+ul {
+  margin: 0.25rem;
+}
+
+li {
+  font-size: .5rem;
+}
+.project-description,
 .about-me {
   line-height: 1.6;
+}
+
+.about-me {
+  
+}
+
+.project-name {
+  font-size: 0.5rem;
+  margin: 0.25rem 0;
+}
+
+.project-link {
+  font-size: 0.5rem;
 }
 
 .main-header {
