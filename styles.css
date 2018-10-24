@@ -92,17 +92,19 @@ li {
   line-height: 1.6;
 }
 
+.experience,
 .about-me {
-  margin-bottom: 2vw;
+  margin-bottom: 3vw;
 }
 
 .project-name {
-  font-size: 1.5vw;
+  font-size: 1.75vw;
   margin: 1.25vw 0;
 }
 
 .project-link {
   font-size: 1.5vw;
+  float: right;
 }
 
 .main-header {
